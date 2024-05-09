@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "Headshot_Sam_2024.png"
   name             : "Samuel J. Bullard"
-  pronouns         : "he/him"
-  bio              : "Educational Psychology Ph.D. student"
-  location         : "Minneapolis, MN"
+  # pronouns         : "he/him"
+  # bio              : "Educational Psychology Ph.D. student"
+  location         : "Minneapolis"
   employer         : "University of Minnesota"
   uri              : # URL
   email            : "bulla049@umn.edu" 

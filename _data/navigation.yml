@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "CV"
-    url: /files/Bullard_CV_April2024.pdf
+    url: files/Bullard_CV_April2024.pdf
 
   - title: "Publications"
-    url: /publications/
+    url: publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -15,8 +15,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "Guide"
   #   url: /markdown/
